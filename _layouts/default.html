@@ -15,23 +15,26 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="https://www.linkedin.com/in/josh-atwal/">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 class="centered-text"><a href="https://www.linkedin.com/in/josh-atwal/">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p class="centered-text">{{ site.description | default: site.github.project_tagline }}</p>
 
-        <a href="https://www.instagram.com/joshwascool/" target="_blank" rel="noopener noreferrer">
-          <img src="/assets/img/social/6929237_instagram_icon.png" alt="Instagram Profile" width="32" height="32">
-        </a>
-        <a href="https://www.linkedin.com/in/josh-atwal/" target="_blank" rel="noopener noreferrer">
-          <img src="/assets/img/social/317725_linkedin_social_icon.png" alt="LinkedIn Profile" width="32" height="32">
-        </a>
-        <a href="{{ site.github.owner_url }}">
-          <img src="/assets/img/social/8666148_github_square_icon.png" alt="GitHub Profile" width="32" height="32">
-        </a>
+        <div class="centered-text">
+          <a href="https://www.instagram.com/joshwascool/" target="_blank" rel="noopener noreferrer">
+            <img src="/assets/img/social/6929237_instagram_icon.png" alt="Instagram Profile" width="32" height="32">
+          </a>
+          <a href="https://www.linkedin.com/in/josh-atwal/" target="_blank" rel="noopener noreferrer">
+            <img src="/assets/img/social/317725_linkedin_social_icon.png" alt="LinkedIn Profile" width="32" height="32">
+          </a>
+          <a href="{{ site.github.owner_url }}">
+            <img src="/assets/img/social/8666148_github_square_icon.png" alt="GitHub Profile" width="32" height="32">
+          </a>
+        </div>
+        
         
       </header>
       <section>
