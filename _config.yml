@@ -1,13 +1,12 @@
-title: Josh Atwal # your name (or website title) here
-logo: "/images/websitelogo.jpeg" # your photo (or logo) here
+title: Josh Atwal
+logo: /assets/img/websitelogo.jpeg
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
   Software Engineer and Data Scientist
   <br><br>
   <b>Please hire me</b>
   <br><br>
   <a href="https://www.linkedin.com/in/josh-atwal/">View My LinkedIn Profile</a> 
-  
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+show_downloads: false
+google_analytics: G-1NZV7CL3RW
+theme: jekyll-theme-minimal
