@@ -6,4 +6,6 @@ layout: default
 
 Here you can find projects I've worked on in my spare time.
 
-## [Spotify Playlist Art](./another-page.html)
+## [AI Generated Spotify Playlist Art](./another-page.html)
+
+![placeholder](/assets/img/websitelogo.jpeg)
