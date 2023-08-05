@@ -1,12 +1,9 @@
 title: Josh Atwal
-logo: /assets/img/websitelogo.jpeg
+logo: /assets/img/profile_image.png
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
   Software Engineer and Data Scientist
   <br><br>
   <b>Please hire me</b>
-  <br><br>
-  <a href="https://www.linkedin.com/in/josh-atwal/">View My LinkedIn Profile</a> 
 show_downloads: false
 google_analytics: G-1NZV7CL3RW
 theme: jekyll-theme-minimal
