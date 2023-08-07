@@ -17,3 +17,13 @@ Using GPT-4 and Stable Diffusion XL to generate Spotify playlist art.
 </a>
 
 ---
+
+## [Facial Expression Analysis](./expression-analysis.html)
+
+Exploratory data analysis on a self-constructed dataset of my own facial expressions.
+
+<a href="./expression-analysis.html">
+  <img src="./assets/img/facial_expressions/mostpotent.jpg" alt="Facial Expression Analysis">
+</a>
+
+---
