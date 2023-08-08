@@ -5,7 +5,7 @@ layout: default
 # Facial Expression Analysis
 #### _1 March 2023_
 
-Apple's Photos app automatically groups images of the same person together. I had the idea to use this to construct a dataset of my own facial expressions over the years. I then used a pre-trained model to quantify the expressions and performed an anlysis of how my facial expressions in photos have changed over time.
+Apple's Photos app automatically groups images of the same person together. I had the idea to use this to construct a dataset of my own facial expressions over the years. I then used a pre-trained model to quantify the expressions and performed an analysis of how my facial expressions in photos have changed over time.
 
 
 ## Data Collection

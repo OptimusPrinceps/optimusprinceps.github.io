@@ -35,7 +35,7 @@ Exploratory data analysis on a self-constructed dataset of my own facial express
 
 ---
 
-## [Instgram Follower Engagement](/portfolio/follower-engagement.html)
+## [Instagram Follower Engagement](/portfolio/follower-engagement.html)
 
 Tracking the engagement of my Instagram followers.
 
