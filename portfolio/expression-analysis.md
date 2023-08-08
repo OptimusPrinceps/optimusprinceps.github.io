@@ -9,7 +9,7 @@ Apple's Photos app automatically groups images of the same person together. I ha
 
 
 ## Data Collection
-The first step was to export all images of my face.
+The first step was to export all images of my face. 
 
  
 All statistics were first grouped by the day they were taken on, this avoids similar photos from the same shooting having an undue biasing effect.

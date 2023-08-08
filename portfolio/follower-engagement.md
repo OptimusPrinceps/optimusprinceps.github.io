@@ -8,6 +8,6 @@ layout: default
 
 ---
 
-Under construction
+This page is under construction. Please check back soon.
 
 ## [Go back](/)

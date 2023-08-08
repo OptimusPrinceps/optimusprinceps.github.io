@@ -44,3 +44,4 @@ Tracking the engagement of my Instagram followers.
 ## [Improving Analytics in Golf](/portfolio/golf-analytics.html)
 
 A collection of projects with the aim of improving on the analytics and insight available to golfers.
+
