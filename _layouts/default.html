@@ -21,12 +21,12 @@
           <img src="{{site.logo | relative_url}}" alt="Logo"/>
         {% endif %}
 
-        <p class="centered-text">{{ site.description | default: site.github.project_tagline }}</p>
+        <!-- <p class="centered-text">{{ site.description | default: site.github.project_tagline }}</p> -->
 
         <div class="centered-text">
-          <a href="https://medium.com/@meschatology" target="_blank" rel="noopener noreferrer">
+          <!-- <a href="https://medium.com/@meschatology" target="_blank" rel="noopener noreferrer">
             <img src="/assets/img/social/7088990_medium_medium logo_icon.png" alt="Medium Profile" width="32" height="32">
-          </a>
+          </a> -->
           <!-- <a href="https://www.instagram.com/joshwascool/" target="_blank" rel="noopener noreferrer">
             <img src="/assets/img/social/6929237_instagram_icon.png" alt="Instagram Profile" width="32" height="32">
           </a> -->
@@ -39,6 +39,8 @@
           <a href="https://open.spotify.com/user/1245938457" target="_blank" rel="noopener noreferrer">
             <img src="/assets/img/social/8010463_spotify_music_audio_song_sound_icon.png" alt="Spotify Profile" width="32" height="32">
           </a>
+          <a href="https://www.chess.com/member/josh_is_coo" target="_blank" rel="noopener noreferrer">
+            <img src="/assets/img/social/chess_social_icon.png" alt="Chess.com Profile" width="32" height="32">
         </div>
         <p class="centered-text">
           <a href="mailto:josh.atwal@outlook.com">
@@ -65,7 +67,13 @@
       {{ content }}
 
       </section>
+
       <footer>
+        <h3 class="centered-text">
+          <a href="/">
+            Home
+          </a>
+        </h3>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}

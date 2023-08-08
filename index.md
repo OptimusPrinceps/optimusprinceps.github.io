@@ -3,15 +3,23 @@ layout: default
 ---
 
 
-# Cirriculum Vitae
+# About me
 
-[View an online version of my CV](./cv/index.html)
+I'm a software engineer / data scientist currently based in New Zealand and looking for opportunities overseas.
+
+I have a Masters in data science and multiple years of experience developing software in a startup environment. 
+
+For my next role I'm looking to continue challenging myself in a fun and supportive environment. I'm particularly interested in roles that involve data science, machine learning, and/or backend development.
+
+In my spare time I frantically keep up with the latest developments in AI and enjoy reading about technology, psychology, and philosophy. I also play the drums, am a regular at the bouldering gym, and have recently been generating AI art as a creative outlet (see below).
+
+### [View an online version of my CV here](./cv/index.html)
 
 ---
 
 # Portfolio
 
-Here you can find projects I've worked on in my spare time.
+Here you can find projects I've undertaken outside of work.
 
 
 
@@ -19,9 +27,19 @@ Here you can find projects I've worked on in my spare time.
 
 Using GPT-4 and Stable Diffusion XL to generate Spotify playlist art.
 
+Skills: _LLM prompt engineering/generative AI_, _APIs_, _concurrency_
+
 <a href="/portfolio/playlist-art.html">
   <img src="/assets/img/playlist_art/playlist_art.jpg" alt="Playlist Art">
 </a>
+
+<br>
+
+## [Artificially Generating a LinkedIn Profile Picture](/portfolio/linkedin-photo.html)
+
+Custom training Stable Diffusion to recognise my face and generate a profile picture for LinkedIn.
+
+Skills: _generative AI_
 
 <br>
 
@@ -29,19 +47,24 @@ Using GPT-4 and Stable Diffusion XL to generate Spotify playlist art.
 
 Exploratory data analysis on a self-constructed dataset of my own facial expressions.
 
+Skills: _image processing_, _data engineering/analysis/science_, _visualisation_
+
 <a href="/portfolio/expression-analysis.html">
   <img src="/assets/img/facial_expressions/mostpotent.jpg" alt="Facial Expression Analysis">
 </a>
 
----
+<br>
 
 ## [Instagram Follower Engagement](/portfolio/follower-engagement.html)
 
 Tracking the engagement of my Instagram followers.
 
----
+Skills: _web scraping_, _image processing_, _data visualisation_
+
+<br>
 
 ## [Improving Analytics in Golf](/portfolio/golf-analytics.html)
 
 A collection of projects with the aim of improving on the analytics and insight available to golfers.
 
+Skills: _statistics_, _PCA_, _web scraping/data collection_, _data visualisation_, _data science_, _out-of-the-box thinking_, _report writing_

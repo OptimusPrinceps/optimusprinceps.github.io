@@ -107,6 +107,3 @@ Playlist:
 
 <br>
 
----
-
-## [Go back](/)

@@ -24,7 +24,3 @@ Figure 3 compares my expressions against those of other people. Over 100,000 sel
 
 Final thoughts: I had imagined making evidenced conclusions about how my emotional state and mental health has varied over the years. However, there are many biases involved in the data (when do you tend to take photos?) and the model (every model comes with inherent biases towards perhaps certain emotions that are not independent of the physiognomy of the subject). Furthermore, research suggests that external expression is often not as good an indicator of internal emotions as some like Darwin had thought [citation needed].
 
-
----
-
-## [Go back](/)
