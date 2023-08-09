@@ -13,7 +13,7 @@ My first attempt was in November of 2022 when I came across this [colab notebook
 
 Here is the image I ended up using on LinkedIn:
 
-<img src="/assets/img/">
+<img src="/assets/img/linkedin/attempt_v1.png" alt="First attempt at a LinkedIn profile picture">
 
 
 ### Stable Diffusion 1.9 --- June 2023
