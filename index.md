@@ -11,7 +11,8 @@ I have a Masters in data science and multiple years of experience developing sof
 
 For my next role I'm looking to continue challenging myself in a fun and supportive environment. I'm particularly interested in roles that involve data science, machine learning, and/or backend development.
 
-In my spare time I frantically keep up with the latest developments in AI and enjoy reading about technology, psychology, and philosophy. I also play the drums, am a regular at the bouldering gym, and have recently been generating AI art as a creative outlet (see below).
+In my spare time I frantically keep up with the latest developments in AI and enjoy reading about technology, psychology, and philosophy. I also love <a href="/assets/img/hobbies/IMG_8165.jpeg" target="_blank">hiking</a>, play the <a href="/assets/img/hobbies/IMG_9814.jpeg" target="_blank">drums</a>, am a regular at the <a href="/assets/img/hobbies/IMG_5928.jpeg" target="_blank">bouldering</a> gym, and have recently been generating AI art and writing about it as a creative outlet (see below!)
+
 
 ### [View an online version of my CV here](./cv/index.html)
 
