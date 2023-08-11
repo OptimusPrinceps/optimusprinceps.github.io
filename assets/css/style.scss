@@ -25,3 +25,14 @@
 .vertically-aligned {
     vertical-align: middle;
 }
+
+.figure {
+    border: 1px solid black;
+    padding: 15px 15px 0px 15px;
+    margin-bottom: 20px;
+}
+
+.figure-even-pad {
+    border: 1px solid black;
+    padding: 15px 15px 15px 15px;
+}

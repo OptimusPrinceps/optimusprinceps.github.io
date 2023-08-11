@@ -42,6 +42,10 @@ Custom training Stable Diffusion to recognise my face and generate a profile pic
 
 Skills: _generative AI_
 
+<a href="/portfolio/linkedin-photo.html">
+  <img src="/assets/img/linkedin/cover.jpg" alt="AI Generated LinkedIn Profile Pictures">
+</a>
+
 <br>
 
 ## [Facial Expression Analysis](/portfolio/expression-analysis.html)
@@ -62,6 +66,10 @@ Tracking the engagement of my Instagram followers.
 
 Skills: _web scraping_, _image processing_, _data visualisation_
 
+<a href="/portfolio/follower-engagement.html">
+  <img class="figure-even-pad" src="/assets/img/follower_engagement/engagement.jpg" alt="Instagram Follower Engagement">
+</a>
+
 <br>
 
 ## [Improving Analytics in Golf](/portfolio/golf-analytics.html)
@@ -69,3 +77,7 @@ Skills: _web scraping_, _image processing_, _data visualisation_
 A collection of projects with the aim of improving on the analytics and insight available to golfers.
 
 Skills: _statistics_, _PCA_, _web scraping/data collection_, _data visualisation_, _data science_, _out-of-the-box thinking_, _report writing_
+
+<a href="/portfolio/golf-analytics.html">
+  <img class="figure-even-pad" src="/assets/img/dissertation/cluster_vis.png" alt="Golf Clustering">
+</a>
