@@ -14,7 +14,7 @@ For most of my time on Instagram I had kept things very private and posted very 
 
 To create this image I scraped the likes and comments from the posts on my Instagram page and summed up the number of engagements from each of my followers. I then placed people into bins based on how many engagements they had made relative to the theoetical maximum possible.
 
-I envisioned this kind of "meta"-post to try and provoke my followers to think about their relationship with social media and instagram in particular: 
+I envisioned this kind of "meta" post to try and provoke my followers to think about their relationship with social media and instagram in particular: 
 - How much of their engagement with the app actually involves meaningful interactions with people that they care about and have a personal relationship with? 
 - How much of their self-worth is tied to likes and followers? An obvious jab at the hustle/influencer culture that is so prevalent on the platform.
 - By scraping the profile pictures of all my followers I also wanted to trigger a reflection on digital privacy, and the way that I had very easily collected data relating to each person in a way that they probably would never have expected. 
