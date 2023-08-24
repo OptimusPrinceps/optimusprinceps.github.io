@@ -4,13 +4,21 @@ layout: default
 
 # Resumé / CV
 
-I'm a software engineer / data scientist currently based in New Zealand and looking for opportunities overseas.
+I'm a software engineer / data scientist looking for opportunities in the UK/Australia.
 
 I have a Masters in data science and multiple years of experience developing software in a startup environment. 
 
 For my next role I'm looking to continue challenging myself in a fun and supportive environment. I'm particularly interested in roles that involve data science, machine learning, and/or backend development.
 
 In my spare time I frantically keep up with the latest developments in AI and enjoy reading about technology, psychology, and philosophy. I also love <a href="/assets/img/hobbies/IMG_8165.jpeg" target="_blank">hiking</a>, play the <a href="/assets/img/hobbies/IMG_9814.jpeg" target="_blank">drums</a>, am a regular at the <a href="/assets/img/hobbies/IMG_5928.jpeg" target="_blank">bouldering</a> gym, and have recently been generating AI art and writing about it as a creative outlet.
+
+Below is a PDF version of my CV. You can also [click here](/assets/pdf/Josh_Atwal_CV_2023.pdf).
+
+<object data="/assets/pdf/Josh_Atwal_CV_2023.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/assets/pdf/Josh_Atwal_CV_2023.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/Josh_Atwal_CV_2023.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ---
 

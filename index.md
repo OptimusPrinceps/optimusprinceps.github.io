@@ -5,7 +5,7 @@ layout: default
 
 # About me
 
-I'm a software engineer / data scientist currently based in New Zealand and looking for opportunities overseas.
+I'm a software engineer / data scientist looking for opportunities in the UK/Australia.
 
 I have a Masters in data science and multiple years of experience developing software in a startup environment. 
 
