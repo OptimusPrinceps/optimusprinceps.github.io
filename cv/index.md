@@ -14,7 +14,7 @@ In my spare time I frantically keep up with the latest developments in AI and en
 
 Below is a PDF version of my CV. You can also [click here](/assets/pdf/Josh_Atwal_CV_2023.pdf).
 
-<object data="/assets/pdf/Josh_Atwal_CV_2023.pdf" type="application/pdf" width="700px" height="700px">
+<object data="/assets/pdf/Josh_Atwal_CV_2023.pdf" type="application/pdf" width="100%" height="770px">
     <embed src="/assets/pdf/Josh_Atwal_CV_2023.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/Josh_Atwal_CV_2023.pdf">Download PDF</a>.</p>
     </embed>
