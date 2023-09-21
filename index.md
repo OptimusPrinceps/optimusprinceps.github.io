@@ -5,7 +5,7 @@ layout: default
 
 # About me
 
-I'm a software engineer / data scientist looking for opportunities in the UK/Australia.
+I'm a software engineer / data scientist looking for new opportunities.
 
 I have a Masters in data science and multiple years of experience developing software in a startup environment. 
 

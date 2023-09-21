@@ -4,7 +4,7 @@ layout: default
 
 # Resumé / CV
 
-I'm a software engineer / data scientist looking for opportunities in the UK/Australia.
+I'm a software engineer / data scientist looking for new opportunities.
 
 With a Master's degree and hands-on experience from an early-stage SaaS startup, I've cultivated a talent for quickly navigating unfamiliar landscapes. By combining research and execution I can hit the ground running and tackle any challenge I am given.
 
@@ -12,7 +12,7 @@ For my next role I'm looking to continue challenging myself in a fun and support
 
 In my spare time I frantically keep up with the latest developments in AI and enjoy reading about technology, psychology, and philosophy. I also love <a href="/assets/img/hobbies/IMG_8165.jpeg" target="_blank">hiking</a>, play the <a href="/assets/img/hobbies/IMG_9814.jpeg" target="_blank">drums</a>, am a regular at the <a href="/assets/img/hobbies/IMG_5928.jpeg" target="_blank">bouldering</a> gym, and have recently been generating AI art and writing about it as a creative outlet.
 
-Below is a PDF version of my CV. You can also [click here](https://www.canva.com/design/DAEsfb7Wpf8/view).
+Below is my CV. Also available as a [pdf](https://josh-atwal.com/assets/pdf/Josh_Atwal_CV_2023.pdf).
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
