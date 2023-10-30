@@ -40,7 +40,7 @@ You can find links to personal projects on the [home page](/) of this website.
 </h3>
 
 - Title: Founding Engineer
-- Timespan: November 2021 -- August 2023 (1 year 10 months)
+- Timespan: November 2021 -- September 2023 (1 year 11 months)
 
 
 I was part of the founding team (employed prior to seed-round) of a Saas startup company. 
