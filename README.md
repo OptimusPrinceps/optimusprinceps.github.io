@@ -1,10 +1,17 @@
 # My personal website hosted on Github Pages
 
-View at [optimusprinceps.github.io](https://optimusprinceps.github.io)
+View at [optimusprinceps.github.io](https://optimusprinceps.github.io) or [josh-atwal.com](https://josh-atwal.com/)
 
 # Run locally
 
-Install Ruby, then from Git bash:
+Install Ruby:
+
+```bash
+brew install ruby
+echo 'export PATH="/opt/homebrew/opt/ruby/bin:$PATH"' >> ~/.zshrc
+```
+
+then:
 
 ```bash
 bundle install

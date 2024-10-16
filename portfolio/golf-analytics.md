@@ -15,5 +15,5 @@ This page highlights the key results from my dissertation. You can also view a
 pdf version of my dissertation.
 </a>
 
-Rest of the page is still under construction, please check back soon!
+The rest of this page is still under construction, please check back soon!
 
