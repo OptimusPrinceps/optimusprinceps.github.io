@@ -47,11 +47,13 @@ Below is my CV. Also available as a [pdf](https://josh-atwal.com/assets/pdf/Josh
 _January 2024 -- Present_
 
 
-I'm currently working at AWS as a Cloud Support Engineer. I support AWS customers using the Machine Learning services: SageMaker, Bedrock, Forecast, Personalize, Textract, etc. 
+I'm currently working at AWS as a Cloud Support Engineer. My current role responsibilities are around building tooling and automation that improves the customer experience when interacting with AWS premium support. One of the projects I'm working on currently involves developing LLM agents for handling support cases and answer customer queries before a support engineer even gets involved.
 
-My main role responsibilities are to handle support cases from customers; given the nature of the services I am supporting this involves troubleshooting things like SageMaker training jobs/endpoints/pipelines, and Bedrock Knowledge Bases/Agents. This requires extensive knowledge about a wide range of topics: MLOps and the entire model lifecycle, LLMs, prompting.
+This involves working within a team as a software engineer to write and deploy code to production, while leveraging my subject matter expertise with services like AWS Machine Learning services such as SageMaker, Bedrock, Forecast, Personalize, Textract, etc. 
 
-Beyond case-work, I've also been involved in delivering training to other engineers, conducting interviews, formal mentoring, and project work. For example, I'm currently working on developing LLM agents for handling support cases and answer customer queries before a support agent even gets involved.
+As a part of this role, I've also spent time directly handling support cases from customers. Given the nature of the services I am supporting this involves troubleshooting things like SageMaker training jobs/endpoints/pipelines, and Bedrock Knowledge Bases/Agents. This requires extensive knowledge about a wide range of topics: MLOps and the entire model lifecycle, LLMs, prompting.
+
+I've also been involved in many other iniatives and value-adds such as: delivering training to other engineers, conducting interviews, formal mentoring, and project work. 
 
 **Skills**: _MLOps and ML lifecycle_, _LLM agents_, _software development_, _customer support_
 
